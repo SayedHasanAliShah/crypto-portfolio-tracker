@@ -1,0 +1,13 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+.DS_Store
+*.log
+.env
+android/.gradle
+android/app/build
+android/build
+ios/Pods
+ios/build
+.vscode/
+.idea/
