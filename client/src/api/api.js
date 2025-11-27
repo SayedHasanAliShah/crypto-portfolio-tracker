@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://192.168.0.103:3000/api'; // Updated to match current IP
+const API_URL = 'https://crypto-tracker-api-production.up.railway.app/api'; // Railway production backend
 
 const api = axios.create({
     baseURL: API_URL,

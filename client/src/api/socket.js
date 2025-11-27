@@ -1,6 +1,6 @@
 import io from 'socket.io-client';
 
-const SOCKET_URL = 'http://192.168.0.103:3000'; // Updated to match current IP
+const SOCKET_URL = 'https://crypto-tracker-api-production.up.railway.app'; // Railway production backend
 const CONNECTION_TIMEOUT = 10000; // 10 seconds
 
 class SocketService {
