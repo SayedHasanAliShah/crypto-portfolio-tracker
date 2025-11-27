@@ -1,0 +1,14 @@
+{
+    "name": "crypto-portfolio-tracker",
+    "version": "1.0.0",
+    "description": "Cryptocurrency Portfolio Tracker",
+    "scripts": {
+        "install": "cd server && npm install",
+        "start": "cd server && npm start",
+        "dev": "cd server && npm run dev"
+    },
+    "engines": {
+        "node": ">=18.0.0",
+        "npm": ">=9.0.0"
+    }
+}
