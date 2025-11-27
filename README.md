@@ -117,11 +117,7 @@ npm install
 
 Create a `.env` file in the `server/` directory:
 
-```env
-MONGODB_URI=mongodb+srv://your-username:your-password@cluster.mongodb.net/cryptotracker
-PORT=3000
-NODE_ENV=development
-```
+
 
 ---
 
