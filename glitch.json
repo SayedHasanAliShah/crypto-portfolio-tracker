@@ -1,0 +1,12 @@
+{
+  "install": "cd server && npm install",
+  "start": "cd server && node index.js",
+  "watch": {
+    "ignore": [
+      "client/**",
+      "*.md",
+      ".git"
+    ],
+    "throttle": 1000
+  }
+}
